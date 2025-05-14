@@ -9,6 +9,7 @@ Hi there, I'm nitdhogg 👋
 
 代码如诗，BUG 随缘。 ✨
 
+![](https://raw.githubusercontent.com/Nitdhogg/Nitdhogg/refs/heads/main/%E6%81%90%E9%BE%99%E8%B7%B3%E4%B8%80%E8%B7%B3.gif)
 
 
 
